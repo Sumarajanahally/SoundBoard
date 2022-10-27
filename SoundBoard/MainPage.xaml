@@ -32,6 +32,8 @@
                     Width="45"/>
 
         </RelativePanel>
+        
+        
         <SplitView Grid.Row="1" Name="ContentSpliyView"
                    DisplayMode="CompactOverlay"
                    CompactPaneLength="45"
